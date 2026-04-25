@@ -84,6 +84,17 @@ http://localhost/libreria/
 
 ---
 
+## 🔧 Configuración
+
+1. Clona el repositorio
+2. Copia `.env.example` como `.env`
+3. Edita `.env` con tus credenciales de base de datos
+4. ¡Listo para usar!
+
+**Nota:** El archivo `.env` contiene credenciales sensibles.
+
+---
+
 ## 👨‍💻 Autor
 
 Desarrollado por **Rosdevdr** — 2026
